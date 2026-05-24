@@ -1,0 +1,8 @@
+venv/
+faiss_store/
+__pycache__/
+*.pyc
+.DS_Store
+*.env
+data/
+
